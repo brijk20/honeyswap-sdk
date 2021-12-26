@@ -2617,18 +2617,18 @@ domexception@^1.0.1:
   dependencies:
     webidl-conversions "^4.0.2"
 
-"dxswap-core@https://github.com/1Hive/dxswap-core.git", "dxswap-core@https://github.com/1Hive/dxswap-core.git#master":
+"dxswap-core@https://github.com/brijk20/dxswap-core.git", "https://github.com/brijk20/dxswap-core.git":
   version "0.3.6"
   uid "5fc22e0655d9574590fe56527e1651cecd118891"
-  resolved "https://github.com/1Hive/dxswap-core.git#5fc22e0655d9574590fe56527e1651cecd118891"
+  resolved "https://github.com/brijk20/dxswap-core.git"
   dependencies:
     typescript "^3.9.5"
 
-"dxswap-periphery@https://github.com/1Hive/dxswap-periphery.git#master":
+"dxswap-periphery@https://github.com/brijk20/dxswap-periphery.git":
   version "0.3.7"
-  resolved "https://github.com/1Hive/dxswap-periphery.git#12d46ea4c092aaf29aa36e47ca23c5965e7f6506"
+  resolved "https://github.com/brijk20/dxswap-periphery.git"
   dependencies:
-    dxswap-core "https://github.com/1Hive/dxswap-core.git"
+    dxswap-core "https://github.com/brijk20/dxswap-core.git"
 
 ecc-jsbn@~0.1.1:
   version "0.1.2"
