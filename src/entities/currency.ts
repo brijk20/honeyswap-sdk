@@ -20,8 +20,8 @@ export class Currency {
   // Native currencies for deployment chains
   public static readonly ETHER: Currency = new Currency(18, 'ETH', 'Ether')
   public static readonly SPOA: Currency = new Currency(18, 'SPOA', 'Sokol POA')
-  public static readonly XDAI: Currency = new Currency(18, 'XDAI', 'xDAI')
-  public static readonly MATIC: Currency = new Currency(18, 'MATIC', 'MATIC')
+  public static readonly XDAI: Currency = new Currency(18, 'BNB', 'Binance Smart Chain')
+  public static readonly MATIC: Currency = new Currency(18, 'BNB', 'Binance Smart Chain')
 
   private static readonly NATIVE_CURRENCY: { [chainId in ChainId]: Currency } = {
     [ChainId.MAINNET]: Currency.ETHER,
