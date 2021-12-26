@@ -41,17 +41,17 @@ export class Token extends Currency {
     ),
     [ChainId.XDAI]: new Token(
       ChainId.XDAI,
-      '0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1',
+      '0x2170ed0880ac9a755fd29b2688956bd959f933f8',
       18,
       'WETH',
-      'Wrapped Ether on xDai'
+      'Binance-Peg Ethereum Token'
     ),
     [ChainId.MATIC]: new Token(
       ChainId.MATIC,
-      '0x7ceb23fd6bc0add59e62ac25578270cff1b9f619',
+      '0x2170ed0880ac9a755fd29b2688956bd959f933f8',
       18,
       'WETH',
-      'Wrapped Ether on Matic'
+      'Binance-Peg Ethereum Token'
     )
   }
 
@@ -60,11 +60,11 @@ export class Token extends Currency {
   }
 
   public static readonly WXDAI: { [key: number]: Token } = {
-    [ChainId.XDAI]: new Token(ChainId.XDAI, '0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d', 18, 'WXDAI', 'Wrapped xDAI')
+    [ChainId.XDAI]: new Token(ChainId.XDAI, '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c', 18, 'WBNB', 'Wrapped BNB')
   }
 
   public static readonly WMATIC: { [key: number]: Token } = {
-    [ChainId.MATIC]: new Token(ChainId.MATIC, '0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270', 18, 'WMATIC', 'Wrapped Matic')
+    [ChainId.MATIC]: new Token(ChainId.MATIC, '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c', 18, 'WBNB', 'Wrapped BNB')
   }
 
   public static readonly DXD: { [key: number]: Token } = {
