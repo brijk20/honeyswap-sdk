@@ -1,0 +1,102 @@
+{
+    "name": "OutletSwap Default",
+    "timestamp": "2021-12-24T17:53:46.716Z",
+    "version": {
+      "major": 5,
+      "minor": 21,
+      "patch": 1
+    },
+    "tags": {},
+    "logoURI": "outletswap logo small",
+    "keywords": [
+      "outletswap",
+      "binance",
+      "bsc"
+    ],
+    "tokens": [
+
+        {
+            "name": "Dentist Token",
+            "address": "0x919f669D0173FA499Ef8f2575fd11Ef32A4CB752",
+            "symbol": "DTOK",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI":
+              "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png"
+          },
+        
+          {
+            "name": "DoctorCoin",
+            "address": "0x9eff574E5fA37aFBa8b71447A0Fb14eB609B1612",
+            "symbol": "DOCT",
+            "decimals": 9,
+            "chainId": 56,
+            "logoURI":
+              "ipfs://Qma4TXHsoK3yVtEGCRVeezfVGzokPGLC49Hhyvd9Lf4x2j"
+          },
+          
+          {
+            "name": "FinanCoin",
+            "address": "0x864F0520836E50143763FF03f4D9aBf9b60d09Fd",
+            "symbol": "FIN",
+            "decimals": 9,
+            "chainId": 56,
+            "logoURI":
+              "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
+          },
+    
+          {
+            "name": "DentistCoin",
+            "address": "0x7421024F6cd083502742FA4202295Fc688567a30",
+            "symbol": "DEN",
+            "decimals": 9,
+            "chainId": 56,
+            "logoURI":
+              "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png?1618814666"
+          },
+    
+          {
+            "name": "DocToken",
+            "address": "0x855Ca58ac15d06964783Ac8f80fDaf8a30234fba",
+            "symbol": "DOC",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI":
+              "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png?1618814666"
+          },
+    
+          {
+            "name": "DocCoin",
+            "address": "0x9200E7e887Bdc86612F87303444869EA3C15A319",
+            "symbol": "DOCCO",
+            "decimals": 9,
+            "chainId": 56,
+            "logoURI":
+              "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png?1618814666"
+          },
+    
+          {
+            "name": "DentalCoin",
+            "address": "0x791D2A0e2bE422c098EDFC18C5A65C5B63aaae3E",
+            "symbol": "Tooth",
+            "decimals": 9,
+            "chainId": 56,
+            "logoURI":
+              "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png?1618814666" 
+          },
+        
+    
+          {
+            "name": "DentalToken",
+            "address": "0x8ecAE54A5aCE1b782BcCc641B1E4A71406746FBD",
+            "symbol": "Smile",
+            "decimals": 9,
+            "chainId": 56,
+            "logoURI":
+              "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png?1618814666" 
+          }
+    
+        
+      
+    ]
+  }
