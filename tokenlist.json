@@ -7,7 +7,7 @@
       "patch": 1
     },
     "tags": {},
-    "logoURI": "outletswap logo small",
+    "logoURI": "https://github.com/brijk20/honeyswap-sdk/blob/9e8f932614f07dd6290ba212e2a7732807f5fa2b/assets/OutletToken.png",
     "keywords": [
       "outletswap",
       "binance",
@@ -32,7 +32,7 @@
             "decimals": 9,
             "chainId": 56,
             "logoURI":
-              "ipfs://Qma4TXHsoK3yVtEGCRVeezfVGzokPGLC49Hhyvd9Lf4x2j"
+              "https://github.com/brijk20/honeyswap-sdk/blob/9e8f932614f07dd6290ba212e2a7732807f5fa2b/assets/Doctorcoin.png"
           },
           
           {
